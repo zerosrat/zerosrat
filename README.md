@@ -5,3 +5,6 @@
 - 📍 Based in Chengdu, China  
 - 🌐 My personal blog & portfolio — [zerosrat.dev](https://zerosrat.dev)
 - 🏃 Running enthusiast — I track and share my runs on [my running site](https://run.zerosrat.dev/) 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
