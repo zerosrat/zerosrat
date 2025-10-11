@@ -9,9 +9,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C840%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C842%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-779.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-779.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,20 +19,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-MDX                      4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-JavaScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TypeScript               7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
+MDX                      3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+JavaScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 18 mins      █████████████████████████   99.33 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Cursor                   17 hrs 47 mins      █████████████████████████   99.35 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Mac                      17 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/10/2025 01:45:40 UTC
+ Last Updated on 11/10/2025 01:41:19 UTC
 <!--END_SECTION:waka-->
