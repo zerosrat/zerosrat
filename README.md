@@ -9,9 +9,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C876%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C877%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-790.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-790.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,19 +19,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 48 mins       ███████████████████░░░░░░   76.85 % 
-C++                      1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               13 hrs 32 mins      █████████████████████░░░░   85.74 % 
+C++                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Objective-C              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 9 mins       █████████████████████████   100.00 % 
+Cursor                   15 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2025 01:48:00 UTC
+ Last Updated on 29/10/2025 01:54:56 UTC
 <!--END_SECTION:waka-->
