@@ -9,9 +9,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C048%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C049%20hrs%2013%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,19 +19,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 10 mins      ██████████████░░░░░░░░░░░   54.28 % 
-JSON                     4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Less                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Groovy                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TypeScript               14 hrs 23 mins      ██████████████░░░░░░░░░░░   57.39 % 
+JSON                     3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Less                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+CMake                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Cursor                   26 hrs 7 mins       █████████████████████████   100.00 % 
+Cursor                   25 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      25 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/12/2025 01:53:40 UTC
+ Last Updated on 14/12/2025 02:06:27 UTC
 <!--END_SECTION:waka-->
