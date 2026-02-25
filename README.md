@@ -19,17 +19,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 32 mins             █████████████████████████   99.66 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 33 mins             ███████████████░░░░░░░░░░   59.46 % 
+C++                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      56 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2026 02:35:20 UTC
+ Last Updated on 25/02/2026 02:36:36 UTC
 <!--END_SECTION:waka-->
