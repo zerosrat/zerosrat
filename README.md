@@ -9,7 +9,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C322%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C329%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-950.15%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -19,19 +19,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
-Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-JSON                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Other                    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JavaScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TypeScript               9 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
+Other                    3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+JSON                     3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Markdown                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+JavaScript               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  21 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/04/2026 02:56:45 UTC
+ Last Updated on 11/04/2026 02:41:14 UTC
 <!--END_SECTION:waka-->
