@@ -9,9 +9,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C518%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C523%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-953.74%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-955.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 17 mins      ████████████████░░░░░░░░░   62.30 % 
-Markdown                 5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               12 hrs 45 mins      ██████████████░░░░░░░░░░░   55.95 % 
+Markdown                 7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 47 mins      ██████████████████░░░░░░░   73.99 % 
-Catpaw                   3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Claude Code              1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  15 hrs 37 mins      █████████████████░░░░░░░░   68.54 % 
+Catpaw                   3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Claude Code              2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Cursor                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Codex CLI                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Mac                      21 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/06/2026 04:27:59 UTC
+ Last Updated on 05/06/2026 04:11:29 UTC
 <!--END_SECTION:waka-->
