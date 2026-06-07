@@ -9,9 +9,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C529%20hrs%2056%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-956.59%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-957.82%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,23 +17,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 7 mins       ███████████████░░░░░░░░░░   60.96 % 
-Markdown                 6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript               15 hrs              █████████████░░░░░░░░░░░░   53.15 % 
+Markdown                 9 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.00 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TOML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 31 mins      ██████████████░░░░░░░░░░░   54.48 % 
-Claude Code              5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Cursor                   3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Catpaw                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Codex CLI                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+VS Code                  12 hrs 14 mins      ███████████░░░░░░░░░░░░░░   43.36 % 
+Claude Code              6 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Cursor                   5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Codex CLI                1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Catpaw                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 💻 Operating System: 
-Mac                      24 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2026 03:54:46 UTC
+ Last Updated on 07/06/2026 04:20:45 UTC
 <!--END_SECTION:waka-->
