@@ -9,7 +9,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C537%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C538%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-958.00%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 1 min        ████████████░░░░░░░░░░░░░   46.42 % 
-Markdown                 8 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-TOML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               9 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.93 % 
+Markdown                 7 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TOML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
-Claude Code              5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Cursor                   5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Codex CLI                2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Catpaw                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+VS Code                  5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Claude Code              5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Cursor                   5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+Codex CLI                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Catpaw                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
-Mac                      21 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/06/2026 03:56:54 UTC
+ Last Updated on 10/06/2026 04:08:40 UTC
 <!--END_SECTION:waka-->
