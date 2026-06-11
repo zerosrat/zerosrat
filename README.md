@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.93 % 
-Markdown                 7 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-TOML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+TypeScript               7 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.91 % 
+Markdown                 5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.54 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Claude Code              5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Cursor                   5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-Codex CLI                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Catpaw                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Cursor                   4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Claude Code              4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
+VS Code                  3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Codex CLI                1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Catpaw                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 04:08:40 UTC
+ Last Updated on 11/06/2026 04:21:49 UTC
 <!--END_SECTION:waka-->
