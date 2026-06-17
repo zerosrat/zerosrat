@@ -19,15 +19,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Other                    2 hrs 38 mins       ████████████████░░░░░░░░░   63.80 % 
+Markdown                 1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.51 % 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Cursor                   0 secs              █████████████████████████   100.00 % 
+Codex CLI                2 hrs 59 mins       ██████████████████░░░░░░░   72.49 % 
+Cursor                   1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 04:50:46 UTC
+ Last Updated on 17/06/2026 04:41:11 UTC
 <!--END_SECTION:waka-->
