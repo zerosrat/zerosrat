@@ -1,6 +1,6 @@
 ## Hi, I'm Zero Yu 👋
 
-- 🧑‍💻 Front-end Engineer @Meituan, Ex 🐧 
+- 🧑‍💻 Front-end Engineer, Ex @Tecent @Meituan
 - 🎓 M.S. & B.S. in Software Engineering, UESTC  
 - 📍 Based in Chengdu, China  
 - 🌐 My personal blog & portfolio — [zerosrat.dev](https://zerosrat.dev)
