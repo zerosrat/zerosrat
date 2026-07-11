@@ -19,15 +19,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    32 mins             █████████████░░░░░░░░░░░░   51.74 % 
+JSON                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   34 mins             ██████████████░░░░░░░░░░░   54.36 % 
+Codex CLI                29 mins             ███████████░░░░░░░░░░░░░░   45.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2026 03:43:23 UTC
+ Last Updated on 11/07/2026 02:57:16 UTC
 <!--END_SECTION:waka-->
