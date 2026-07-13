@@ -19,19 +19,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    32 mins             █████████████░░░░░░░░░░░░   51.74 % 
-JSON                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other                    4 hrs 40 mins       ███████████████████░░░░░░   75.58 % 
+SQL                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Cursor                   34 mins             ██████████████░░░░░░░░░░░   54.36 % 
-Codex CLI                29 mins             ███████████░░░░░░░░░░░░░░   45.64 % 
+Cursor                   5 hrs 41 mins       ███████████████████████░░   92.16 % 
+Codex CLI                29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+Mac                      6 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/07/2026 03:22:47 UTC
+ Last Updated on 13/07/2026 03:25:43 UTC
 <!--END_SECTION:waka-->
