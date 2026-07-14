@@ -9,7 +9,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C543%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C548%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-958.00%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -19,20 +19,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 40 mins       ███████████████████░░░░░░   75.58 % 
-SQL                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    5 hrs 42 mins       ██████████████░░░░░░░░░░░   55.35 % 
+SQL                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 41 mins       ███████████████████████░░   92.16 % 
-Codex CLI                29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Cursor                   8 hrs 57 mins       ██████████████████████░░░   87.00 % 
+Codex CLI                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Claude Code              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 💻 Operating System: 
-Mac                      6 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 03:25:43 UTC
+ Last Updated on 14/07/2026 02:49:31 UTC
 <!--END_SECTION:waka-->
