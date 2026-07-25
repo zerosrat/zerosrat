@@ -17,21 +17,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.74 % 
-Markdown                 5 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Bash                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+TypeScript               14 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.75 % 
+Markdown                 7 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Bash                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+HTML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-Claude Code              16 hrs              ██████████████░░░░░░░░░░░   56.67 % 
-Cursor                   10 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   36.88 % 
-Codex CLI                1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Claude Code              20 hrs 42 mins      █████████████████░░░░░░░░   67.85 % 
+Cursor                   7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+Codex CLI                1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 💻 Operating System: 
-Mac                      28 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 02:59:37 UTC
+ Last Updated on 25/07/2026 02:59:33 UTC
 <!--END_SECTION:waka-->
