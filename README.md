@@ -9,11 +9,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C642%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C648%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-390%20hrs%2032%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-375.79%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-397%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,21 +19,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 24 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
+Bash                     7 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+TypeScript               7 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Other                    4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Python                   3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              56 hrs 12 mins      ████████████████████████░   95.51 % 
+Codex Vscode             2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Codex CLI                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Hermes                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      58 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 58 hrs 51 mins (100.0%)
+
+✍️ 30,080 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 45,357,555 Input Tokens, 5,467,550 Output Tokens
+
+💵 $864.21 Estimated AI Cost This Week
+
+🧠 118 AI Sessions, 570 AI Prompts
+
+Opus                     30,128 lines        █████████████████████████   99.42 % 
+GPT                      176 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,449 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 11:16:12 UTC
+ Last Updated on 15/10/2026 04:35:54 UTC
 <!--END_SECTION:waka-->
